@@ -1,0 +1,19 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "Simple pig game created using html, css and native JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzukhirkhujaev/pig-game.git"
+  },
+  "author": "nzukhirkhujaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nzukhirkhujaev/pig-game/issues"
+  },
+  "homepage": "https://github.com/nzukhirkhujaev/pig-game#readme"
+}
